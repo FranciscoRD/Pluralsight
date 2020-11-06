@@ -1,0 +1,11 @@
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\bin\Debug\netcoreapp3.1\module05.exe
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\bin\Debug\netcoreapp3.1\module05.deps.json
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\bin\Debug\netcoreapp3.1\module05.runtimeconfig.json
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\bin\Debug\netcoreapp3.1\module05.runtimeconfig.dev.json
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\bin\Debug\netcoreapp3.1\module05.dll
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\bin\Debug\netcoreapp3.1\module05.pdb
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\obj\Debug\netcoreapp3.1\module05.csprojAssemblyReference.cache
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\obj\Debug\netcoreapp3.1\module05.AssemblyInfoInputs.cache
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\obj\Debug\netcoreapp3.1\module05.AssemblyInfo.cs
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\obj\Debug\netcoreapp3.1\module05.dll
+C:\Proyectos\Pluralsight\CSharp\cscollections\module05\obj\Debug\netcoreapp3.1\module05.pdb

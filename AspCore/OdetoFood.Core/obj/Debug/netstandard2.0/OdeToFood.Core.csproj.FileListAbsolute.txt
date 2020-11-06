@@ -1,0 +1,16 @@
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Proyectos\Pluralsight\sites\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.deps.json
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.AssemblyInfo.cs
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Proyectos\Pluralsight\AspCore\OdeToFood.Core\obj\Debug\netstandard2.0\OdeToFood.Core.pdb
